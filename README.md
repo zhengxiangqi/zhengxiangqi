@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ZhengXiangqi's github stats](https://github-readme-stats.vercel.app/api?username=zhengxiangqi&show_icons=true&theme=tokyonight)](https://github.com/zhengxiangqi)
+[![ZhengXiangQi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhengxiangqi&show_icons=true&theme=tokyonight)](https://github.com/zhengxiangqi)
 
 [![meeko](https://img.shields.io/npm/dy/meeko.svg)](https://img.shields.io/npm/dy/meeko.svg)
 
